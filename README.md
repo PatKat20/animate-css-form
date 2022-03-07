@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" font-size="32px">
   # Formulário animado com JS puro e CSS Animation
   </div>
 <div align="center">
