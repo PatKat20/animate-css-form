@@ -1,7 +1,7 @@
 # Formulário animado com JS puro e CSS Animation
-
-![Animated Form](https://user-images.githubusercontent.com/100157955/157088571-3ec82d63-7e25-4848-9a56-d2e2fca5ede4.gif)
-
+<div text-align:"center">
+  ![Animated Form](https://user-images.githubusercontent.com/100157955/157088571-3ec82d63-7e25-4848-9a56-d2e2fca5ede4.gif)
+</div>
 
 ## Animation
 
